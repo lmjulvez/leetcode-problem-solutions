@@ -3,17 +3,19 @@
 ![Language](https://img.shields.io/badge/language-Python%20%2F%20%20C++-red.svg)&nbsp;
 <!-- [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp; -->
 * This repository has been created in order to track my development in solving algorithms. At the beggining, I am going to follow the guide of [Neetcode](https://neetcode.io/), later on I will continue solving more and more problems in order to participate in a competitive programming competition.
+* The problems are solved in to languages: C++ and Python. In each directory ./####/ you will find two files name.py and name.cpp, with the solution the respective language.
+* I also included two executables for creating the dir for a problem. One for [Bash](./createDir.sh) and another for [BAT](./createDir.bat).
 
 
 ## Types of algorithms
 
 * [Bit Manipulation](https://github.com/lmjulvez/leetcode-problem-solutions?tab=readme-ov-file#bit-manipulation)
-* [Arrays & Hashing](https://github.com/lmjulvez/leetcode-problem-solutions?tab=readme-ov-file#array-&-hashing)
+* [Arrays & Hashing](https://github.com/lmjulvez/leetcode-problem-solutions?tab=readme-ov-file#array--hashing)
 * [Pointers](https://github.com/lmjulvez/leetcode-problem-solutions?tab=readme-ov-file#pointers)
 * [Sliding Window](https://github.com/lmjulvez/leetcode-problem-solutions?tab=readme-ov-file#sliding-windows)
 * [Stack](https://github.com/lmjulvez/leetcode-problem-solutions?tab=readme-ov-file#stack)
 * [Binary Search](https://github.com/lmjulvez/leetcode-problem-solutions?tab=readme-ov-file#binary-search)
-* [Linket List](https://github.com/lmjulvez/leetcode-problem-solutions?tab=readme-ov-file#linked-list)
+* [Linked List](https://github.com/lmjulvez/leetcode-problem-solutions?tab=readme-ov-file#linked-list)
 * [Trees](https://github.com/lmjulvez/leetcode-problem-solutions?tab=readme-ov-file#trees)
 * [Heap](https://github.com/lmjulvez/leetcode-problem-solutions?tab=readme-ov-file#heap)
 * [Backtracking](https://github.com/lmjulvez/leetcode-problem-solutions?tab=readme-ov-file#backtracking)
@@ -21,7 +23,7 @@
 * [Graphs](https://github.com/lmjulvez/leetcode-problem-solutions?tab=readme-ov-file#graphs)
 * [Dynamic Programming](https://github.com/lmjulvez/leetcode-problem-solutions?tab=readme-ov-file#dynamic-programming)
 * [Greedy](https://github.com/lmjulvez/leetcode-problem-solutions?tab=readme-ov-file#greedy)
-* [Math & Geometry](https://github.com/lmjulvez/leetcode-problem-solutions?tab=readme-ov-file#math-&-geometry)
+* [Math & Geometry](https://github.com/lmjulvez/leetcode-problem-solutions?tab=readme-ov-file#math--geometry)
 * [Others](https://github.com/lmjulvez/leetcode-problem-solutions?tab=readme-ov-file#others)
 
 
@@ -56,7 +58,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | --------------- | ------------- | --------------| 
 <!-- 0136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy         | In progress    | [C++](./0136/single-number.cpp) [Python](./0136/single-number.py) | _O(n)_       | _O(1)_     |     -->
 
-## Linket List
+## Linked List
 |  #  | Title           |  Difficulty     |  Status         |  Solution       | Time            | Space         | Tries         | 
 |-----|---------------- | --------------- | --------------- | --------------- | --------------- | ------------- | --------------| 
 <!-- 0136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy         | In progress    | [C++](./0136/single-number.cpp) [Python](./0136/single-number.py) | _O(n)_       | _O(1)_     |     -->
